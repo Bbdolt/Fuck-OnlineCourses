@@ -4,6 +4,9 @@
 成后给服务器发送一个"该课程已完成"的数据包，写的好一些的可能会对`结束时间 - 开始时间`也就是整个过程的时间进行校验，
 一般在前端都可以控制，也就是刷课完成的过程只需要一个数据包即可，它的优点在于速度快。
 
+交流QQ（刷课）：2172700869
+目前只支持 优学院、学习通、e春秋 其他平台待补充可以联系我添加
+
 ## 优学院
 支持刷课等多种功能
 ![image](https://github.com/user-attachments/assets/dd322179-e979-418c-9a63-4c342961e2e1)
@@ -11,6 +14,3 @@
 ![image](https://github.com/user-attachments/assets/cd14fce2-fb23-40bc-b23f-abcac9f39d2d)
 ## e春秋（开源）
 ![image](https://github.com/user-attachments/assets/a5c6ae25-6883-4eaa-86b9-f62e6172c84f)
-
-交流QQ（刷课）：2172700869
-目前只支持 优学院、学习通、e春秋 其他平台待补充可以联系我添加
